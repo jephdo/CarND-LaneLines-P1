@@ -32,7 +32,7 @@ My pipeline consisted of 5 steps:
 
 5. Line extrapolation by clustering lines and averaging their slopes.
 
-![Steps from my pipeline](image2)
+![Steps from my pipeline][image2]
 
 First, I used color selection to filter for yellow and white objects. For white objects 
 I used very similar code to the lecture i.e. setting an RGB threshold to (200, 200, 200).
